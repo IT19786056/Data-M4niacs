@@ -1,0 +1,29 @@
+This is an OOP Project done by our group DataM4niacs
+------------------------------------------------------------------------
+
+The tasks which was assigned to us was 
+1.	Enroll new students to degree programs.
+2.	Manage Certificate programs.
+3.	Manage undergraduate degree programs.
+4.	Manage post graduate degree programs.
+5.	Handling new events in the True Education Academy
+6.	Manage marketing team members.
+7.	Send notifications to marketing teams when new students enrolled to degree programs.
+
+-------------------------------------------------------------------------
+
+Our group members as follows and the tasks assigned to them 
+
+1. J.A Lawrence        IT19786056 (1,5)
+2. G.S.N Kodagoda      IT19785998 (2)
+3. K.W.B Malkini       IT19785752 (3)
+4. G.D.P manuranga     IT19779812 (4)
+5. D.H.J Douglas       IT19223540 (6)
+6. K.K.N. Jayasinghe   IT19013442 (7)
+
+
+
+
+
+
+
