@@ -11,19 +11,16 @@ package Models;
  */
 public class Enrollment 
 {
-    public String Student_ID;
-    public String Course_ID;
-    public String Enrollment_Data;
-    public String Apititude_Result;
-    public char Al_result;
-    public char OL_result;
+    public int University_ID;
+    public String University_name;
+    public String address;
     
-    public void Getenrolldetails()
+    public void degreeprograms()
     {
         
     }
     
-    public void checkcourseeligibility()
+    public void managestudents()
     {
         
     }
