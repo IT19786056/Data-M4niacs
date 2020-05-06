@@ -13,14 +13,21 @@ public class Studentdetails
 {
    public String name;
    public String Address;
-   public String National_ID;
    public String DOB;
    public String EMAIIL;
-   public int telephone;
+   public int Phoneno;
    public String gender;
    
-   public void GetstudentInformation()
+   public void addstudentdetails()
    {
        
+   }
+   public void updatedetails()
+   {
+      
+   }
+   public void deletestudentdetails()
+   {
+      
    }
 }
